@@ -1,5 +1,5 @@
 # UX-Design-project
-This is a User Experience Design course project, collaborating with Megabank to redesign its foreign currency exchange interface.
+This is a User Experience Design course project, collaborating with Mega Bank to redesign its foreign currency exchange interface.
 
 ## Website
 You can view the redesign process details here:
